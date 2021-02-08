@@ -1,0 +1,23 @@
+{
+  "name": "1grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenVerster/1Grid-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenVerster/1Grid-assessment/issues"
+  },
+  "homepage": "https://github.com/RubenVerster/1Grid-assessment#readme"
+}
