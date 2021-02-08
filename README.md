@@ -25,3 +25,5 @@ An example would be:
 ```
 node script.js vfamryzfqutjwhlpme@niwghx.com
 ```
+
+The user's details will then be displayed in your terminal
